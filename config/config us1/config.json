@@ -69,6 +69,6 @@
 	"allowPublisherDashBoardLevel": 0,
 	"logLevel": 1,
 	"showCommissionForPermittedUserOnly": true,
-	"allowedOwners": {"913": ["E-Sheep","HIRO","AudienceTV","Foodplanet","Coffee Table"],"907": ["HIRO"],"879": ["Foodplanet","HIRO"],"861": ["Kineto","HIRO"],"865": ["Coffee Table","E-Sheep","HIRO"],"853": ["AudienceTV","E-Sheep","HIRO"],"875": ["AudienceTV"]},
+	"allowedOwners": {"913": ["E-Sheep","HIRO","AudienceTV","Foodplanet","Coffee Table"],"907": ["E-Sheep","HIRO"],"879": ["Foodplanet","HIRO"],"861": ["Kineto","HIRO"],"865": ["Coffee Table","E-Sheep","HIRO"],"853": ["AudienceTV","E-Sheep","HIRO"],"875": ["AudienceTV"]},
 	"defaultIFrameSettings": { }
 }
